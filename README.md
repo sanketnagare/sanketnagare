@@ -4,16 +4,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Sanket<img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /> </h1></h1></summary>
+    <summary><h1 style="display: inline-block">Hey!, I'm Sanket <img align=center src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving Hand"  /> </h1></h1></summary>
   </ul>
 </div>
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">I am a fullstack web developer</h2></summary>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 
 <!--Intro start-->
@@ -44,10 +40,10 @@
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
-<td width="50%" align="center">
+<td align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sanketnagare&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<td width="50%" align="center">
+<td align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanketnagare&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
